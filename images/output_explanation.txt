@@ -1,0 +1,7 @@
+Output_1: Document without stop-words is processed. For each and every sentence the feature values are being calculated like total length, number of medical terms, number of acronyms, sentence position,etc.
+
+Output_2: After the final score generation, each and every sentence scores are normalized using min-max normalization. According to these scores sentences are ranked and in that order summary is generated.
+
+Output_3: User has been asked about the number of words required in summary.
+
+Output_4: Final Output
